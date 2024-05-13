@@ -34,6 +34,8 @@ Konstruktor
 		}
 */
 
+
+
 //Initialisierungsliste
 CPerson::CPerson(int age, std::string name, char gender)
 	: m_age(age)
